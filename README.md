@@ -12,7 +12,7 @@ Dự án này sử dụng vi điều khiển ESP32 và PlatformIO framework đ�
 ###  Đồ Thị Cường Độ Ánh Sáng
 Dưới đây là ảnh chụp màn hình đồ thị ánh sáng theo thời gian thực thu được từ Teletype. Trục Y thể hiện giá trị ADC (0-4095).
 
-![Ảnh chụp màn hình đồ thị LDR từ Teletype](LDR.png)
+![Ảnh chụp màn hình đồ thị LDR từ Teletype](LDR_ESP32.png)
 
 ###  Cách Sử Dụng
 1.  Kết nối phần cứng như mô tả.
